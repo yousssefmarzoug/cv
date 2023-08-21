@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cf3dd947.css",
+    "main.js": "/static/js/main.fb2c85c7.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/billGates.jpg": "/static/media/billGates.bfaccabca5f9d395ad90.jpg",
+    "static/media/th.jpg": "/static/media/th.7e449ed0ddd6c967e924.jpg",
+    "index.html": "/index.html",
+    "main.cf3dd947.css.map": "/static/css/main.cf3dd947.css.map",
+    "main.fb2c85c7.js.map": "/static/js/main.fb2c85c7.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf3dd947.css",
+    "static/js/main.fb2c85c7.js"
+  ]
+}
